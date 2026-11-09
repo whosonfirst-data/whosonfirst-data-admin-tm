@@ -40,7 +40,7 @@
         "gn:id":161793
     },
     "wof:country":"TM",
-    "wof:geomhash":"45d54952e0ccaccc9c43ec552cacf6ef",
+    "wof:geomhash":"89c3fb796c80266169df5bcb89687c00",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,5 +65,5 @@
     56.46666999999999,
     39.5
 ],
-  "geometry": {"coordinates":[56.46666999999999,39.5],"type":"Point"}
+  "geometry": {"coordinates":[56.46667,39.5],"type":"Point"}
 }

@@ -51,7 +51,7 @@
         "wk:page":"Gyzylgaya"
     },
     "wof:country":"TM",
-    "wof:geomhash":"ff0cc13f98ad9482cd08595261ddecf5",
+    "wof:geomhash":"a513c619cdfe0337a02dd4e4c0de98fc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,5 +76,5 @@
     55.46536999999999,
     40.6219
 ],
-  "geometry": {"coordinates":[55.46536999999999,40.6219],"type":"Point"}
+  "geometry": {"coordinates":[55.46537,40.6219],"type":"Point"}
 }

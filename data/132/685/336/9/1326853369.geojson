@@ -68,7 +68,7 @@
         "wk:page":"Murgap%2C_Turkmenistan"
     },
     "wof:country":"TM",
-    "wof:geomhash":"5f319bd0ef1dc40c8d8945b10f69e657",
+    "wof:geomhash":"707ca27deb864a3d334430a81391d243",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,5 +93,5 @@
     61.97389,
     37.49639000000001
 ],
-  "geometry": {"coordinates":[61.97389,37.49639000000001],"type":"Point"}
+  "geometry": {"coordinates":[61.97389,37.49639],"type":"Point"}
 }

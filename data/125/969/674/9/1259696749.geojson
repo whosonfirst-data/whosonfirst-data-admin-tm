@@ -55,7 +55,7 @@
         "wk:page":"Adzhiyab"
     },
     "wof:country":"TM",
-    "wof:geomhash":"764e88c13ecda11a9212205c8b295b9e",
+    "wof:geomhash":"160c4173094e37bdbabc336f16cf0730",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -80,5 +80,5 @@
     54.15833000000001,
     37.41972
 ],
-  "geometry": {"coordinates":[54.15833000000001,37.41972],"type":"Point"}
+  "geometry": {"coordinates":[54.15833,37.41972],"type":"Point"}
 }

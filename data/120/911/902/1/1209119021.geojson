@@ -91,7 +91,7 @@
         "wk:page":"Garabogaz"
     },
     "wof:country":"TM",
-    "wof:geomhash":"38e2539972b64d5d34b41368021665ef",
+    "wof:geomhash":"541bc6f865cee7c2d95bb962ae07f758",
     "wof:hierarchy":[
         {
             "country_id":85632671,
@@ -114,5 +114,5 @@
     52.53333000000001,
     41.56667
 ],
-  "geometry": {"coordinates":[52.53333000000001,41.56667],"type":"Point"}
+  "geometry": {"coordinates":[52.53333,41.56667],"type":"Point"}
 }

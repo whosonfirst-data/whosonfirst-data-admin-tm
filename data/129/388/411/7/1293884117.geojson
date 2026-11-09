@@ -48,7 +48,7 @@
         "wk:page":"Darganata"
     },
     "wof:country":"TM",
-    "wof:geomhash":"0bcbc1f16b61dcb2ae09fa02b21f6470",
+    "wof:geomhash":"205142c732536857de46d6d7da3f9d21",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     62.1586,
     40.48204000000001
 ],
-  "geometry": {"coordinates":[62.1586,40.48204000000001],"type":"Point"}
+  "geometry": {"coordinates":[62.1586,40.48204],"type":"Point"}
 }

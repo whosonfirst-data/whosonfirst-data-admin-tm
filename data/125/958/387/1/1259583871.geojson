@@ -41,7 +41,7 @@
         "wk:page":"Khadzhykulluk"
     },
     "wof:country":"TM",
-    "wof:geomhash":"f0492c0dc4064958504a6fe8742d00fe",
+    "wof:geomhash":"d02e917ba74172af2a0dbc99961cfc9a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,5 +66,5 @@
     65.68918000000001,
     38.06804
 ],
-  "geometry": {"coordinates":[65.68918000000001,38.06804],"type":"Point"}
+  "geometry": {"coordinates":[65.68918,38.06804],"type":"Point"}
 }
