@@ -1,0 +1,72 @@
+{
+  "id": 9895059574,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.52475,40.35199,55.52475,40.35199",
+    "geom:latitude":40.35199,
+    "geom:longitude":55.52475,
+    "iso:country":"TM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12226660: name \"G\u00f6kdere\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12226660"
+        },
+        {
+            "citation":"GeoNames populated place 12226660: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12226660"
+        },
+        {
+            "citation":"GeoNames populated place 12226660: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12226660"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678923 (Balkan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671,
+        85678923,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12226660
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"de01ab477ff77ea15567b47356c048fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":9895059574,
+            "region_id":85678923
+        }
+    ],
+    "wof:id":9895059574,
+    "wof:lastmodified":1795735068,
+    "wof:name":"G\u00f6kdere",
+    "wof:parent_id":85678923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.52475,
+    40.35199,
+    55.52475,
+    40.35199
+],
+  "geometry": {"coordinates":[55.52475,40.35199],"type":"Point"}
+}

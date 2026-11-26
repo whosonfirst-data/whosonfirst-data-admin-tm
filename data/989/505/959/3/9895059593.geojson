@@ -1,0 +1,72 @@
+{
+  "id": 9895059593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"56.07843,39.90457,56.07843,39.90457",
+    "geom:latitude":39.90457,
+    "geom:longitude":56.07843,
+    "iso:country":"TM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12226679: name \"Jemal\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12226679"
+        },
+        {
+            "citation":"GeoNames populated place 12226679: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12226679"
+        },
+        {
+            "citation":"GeoNames populated place 12226679: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12226679"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678923 (Balkan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671,
+        85678923,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12226679
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"596b5685ae6e3ba20eb6ae6572be7990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":9895059593,
+            "region_id":85678923
+        }
+    ],
+    "wof:id":9895059593,
+    "wof:lastmodified":1795735068,
+    "wof:name":"Jemal",
+    "wof:parent_id":85678923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    56.07843,
+    39.90457,
+    56.07843,
+    39.90457
+],
+  "geometry": {"coordinates":[56.07843,39.90457],"type":"Point"}
+}

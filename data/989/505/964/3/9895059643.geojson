@@ -1,0 +1,72 @@
+{
+  "id": 9895059643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.95372,39.57896,59.95372,39.57896",
+    "geom:latitude":39.57896,
+    "geom:longitude":59.95372,
+    "iso:country":"TM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12233927: name \"Akmolla\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12233927"
+        },
+        {
+            "citation":"GeoNames populated place 12233927: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12233927"
+        },
+        {
+            "citation":"GeoNames populated place 12233927: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12233927"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678925 (Ahal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671,
+        85678925,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12233927
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"06ea20942a62f5c17443ef72b935c073",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":9895059643,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":9895059643,
+    "wof:lastmodified":1795735068,
+    "wof:name":"Akmolla",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.95372,
+    39.57896,
+    59.95372,
+    39.57896
+],
+  "geometry": {"coordinates":[59.95372,39.57896],"type":"Point"}
+}

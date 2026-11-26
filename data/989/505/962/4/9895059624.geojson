@@ -1,0 +1,72 @@
+{
+  "id": 9895059624,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.74883,42.0513,59.74883,42.0513",
+    "geom:latitude":42.0513,
+    "geom:longitude":59.74883,
+    "iso:country":"TM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12233785: name \"T\u00e4zego\u0148rat\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12233785"
+        },
+        {
+            "citation":"GeoNames populated place 12233785: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12233785"
+        },
+        {
+            "citation":"GeoNames populated place 12233785: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12233785"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678931 (Tashauz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671,
+        85678931,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12233785
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"8945acfbc19f8d51aa9f5a19e4ad66ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":9895059624,
+            "region_id":85678931
+        }
+    ],
+    "wof:id":9895059624,
+    "wof:lastmodified":1795735068,
+    "wof:name":"T\u00e4zego\u0148rat",
+    "wof:parent_id":85678931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.74883,
+    42.0513,
+    59.74883,
+    42.0513
+],
+  "geometry": {"coordinates":[59.74883,42.0513],"type":"Point"}
+}

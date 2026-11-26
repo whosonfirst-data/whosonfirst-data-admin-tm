@@ -1,0 +1,72 @@
+{
+  "id": 9895059633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.635,41.86234,59.635,41.86234",
+    "geom:latitude":41.86234,
+    "geom:longitude":59.635,
+    "iso:country":"TM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12233917: name \"Magtym\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12233917"
+        },
+        {
+            "citation":"GeoNames populated place 12233917: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12233917"
+        },
+        {
+            "citation":"GeoNames populated place 12233917: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12233917"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678931 (Tashauz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671,
+        85678931,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12233917
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"0673a53cddf8710f0082dd9efcc4b1b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":9895059633,
+            "region_id":85678931
+        }
+    ],
+    "wof:id":9895059633,
+    "wof:lastmodified":1795735068,
+    "wof:name":"Magtym",
+    "wof:parent_id":85678931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.635,
+    41.86234,
+    59.635,
+    41.86234
+],
+  "geometry": {"coordinates":[59.635,41.86234],"type":"Point"}
+}

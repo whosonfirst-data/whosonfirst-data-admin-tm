@@ -1,0 +1,72 @@
+{
+  "id": 9895059650,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.59911,39.20311,63.59911,39.20311",
+    "geom:latitude":39.20311,
+    "geom:longitude":63.59911,
+    "iso:country":"TM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12233934: name \"\u00c7armerde\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12233934"
+        },
+        {
+            "citation":"GeoNames populated place 12233934: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12233934"
+        },
+        {
+            "citation":"GeoNames populated place 12233934: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12233934"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678937 (Chardzhou), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671,
+        85678937,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12233934
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"e9c754cfe1ffd6273506c924a5f5e3f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":9895059650,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":9895059650,
+    "wof:lastmodified":1795735068,
+    "wof:name":"\u00c7armerde",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.59911,
+    39.20311,
+    63.59911,
+    39.20311
+],
+  "geometry": {"coordinates":[63.59911,39.20311],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895059690,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.5657,38.18408,64.5657,38.18408",
+    "geom:latitude":38.18408,
+    "geom:longitude":64.5657,
+    "iso:country":"TM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12233975: name \"Pelwert\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12233975"
+        },
+        {
+            "citation":"GeoNames populated place 12233975: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12233975"
+        },
+        {
+            "citation":"GeoNames populated place 12233975: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12233975"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678937 (Chardzhou), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671,
+        85678937,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12233975
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"bf1eaf0eb5a3365e46d0b68e2589fd1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":9895059690,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":9895059690,
+    "wof:lastmodified":1795735068,
+    "wof:name":"Pelwert",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.5657,
+    38.18408,
+    64.5657,
+    38.18408
+],
+  "geometry": {"coordinates":[64.5657,38.18408],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 9895059743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.56839,38.01102,65.56839,38.01102",
+    "geom:latitude":38.01102,
+    "geom:longitude":65.56839,
+    "gn:population":4942,
+    "iso:country":"TM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13608018: name \"D\u00f6wletli\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13608018"
+        },
+        {
+            "citation":"GeoNames populated place 13608018: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13608018"
+        },
+        {
+            "citation":"GeoNames populated place 13608018: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13608018"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678937 (Chardzhou), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671,
+        85678937,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13608018
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"17e2d02684b9a5e12a1bf97e289ff369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":9895059743,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":9895059743,
+    "wof:lastmodified":1795735068,
+    "wof:name":"D\u00f6wletli",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.56839,
+    38.01102,
+    65.56839,
+    38.01102
+],
+  "geometry": {"coordinates":[65.56839,38.01102],"type":"Point"}
+}

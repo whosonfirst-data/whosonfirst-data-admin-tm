@@ -1,0 +1,73 @@
+{
+  "id": 9895059723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.70432,37.28158,60.70432,37.28158",
+    "geom:latitude":37.28158,
+    "geom:longitude":60.70432,
+    "gn:population":13660,
+    "iso:country":"TM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13562212: name \"Altyn asyr\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13562212"
+        },
+        {
+            "citation":"GeoNames populated place 13562212: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13562212"
+        },
+        {
+            "citation":"GeoNames populated place 13562212: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13562212"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678925 (Ahal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671,
+        85678925,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13562212
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"826dbab2b1101d24dfdab7f67ad9a178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":9895059723,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":9895059723,
+    "wof:lastmodified":1795735068,
+    "wof:name":"Altyn asyr",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.70432,
+    37.28158,
+    60.70432,
+    37.28158
+],
+  "geometry": {"coordinates":[60.70432,37.28158],"type":"Point"}
+}

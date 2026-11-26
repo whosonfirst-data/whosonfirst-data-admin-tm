@@ -1,0 +1,72 @@
+{
+  "id": 9895059586,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.09782,39.53143,58.09782,39.53143",
+    "geom:latitude":39.53143,
+    "geom:longitude":58.09782,
+    "iso:country":"TM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12226672: name \"K\u00f6mek\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12226672"
+        },
+        {
+            "citation":"GeoNames populated place 12226672: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12226672"
+        },
+        {
+            "citation":"GeoNames populated place 12226672: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12226672"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678925 (Ahal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671,
+        85678925,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12226672
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"66c1af71b5fba50004bc240a47e04742",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":9895059586,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":9895059586,
+    "wof:lastmodified":1795735068,
+    "wof:name":"K\u00f6mek",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.09782,
+    39.53143,
+    58.09782,
+    39.53143
+],
+  "geometry": {"coordinates":[58.09782,39.53143],"type":"Point"}
+}

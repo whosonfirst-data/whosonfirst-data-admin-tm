@@ -1,0 +1,72 @@
+{
+  "id": 9895059545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.89447,42.3886,58.89447,42.3886",
+    "geom:latitude":42.3886,
+    "geom:longitude":58.89447,
+    "iso:country":"TM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12226628: name \"Kir\u015fenoy\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12226628"
+        },
+        {
+            "citation":"GeoNames populated place 12226628: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12226628"
+        },
+        {
+            "citation":"GeoNames populated place 12226628: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12226628"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678931 (Tashauz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671,
+        85678931,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12226628
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"492f1fd6b4fbf7f0f260de0d0289e422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":9895059545,
+            "region_id":85678931
+        }
+    ],
+    "wof:id":9895059545,
+    "wof:lastmodified":1795735068,
+    "wof:name":"Kir\u015fenoy",
+    "wof:parent_id":85678931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.89447,
+    42.3886,
+    58.89447,
+    42.3886
+],
+  "geometry": {"coordinates":[58.89447,42.3886],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 9895059533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"57.96868,38.08318,57.96868,38.08318",
+    "geom:latitude":38.08318,
+    "geom:longitude":57.96868,
+    "gn:population":892,
+    "iso:country":"TM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 161609: name \"Nowata\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/161609"
+        },
+        {
+            "citation":"GeoNames populated place 161609: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/161609"
+        },
+        {
+            "citation":"GeoNames populated place 161609: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/161609"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678925 (Ahal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671,
+        85678925,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":161609
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"4d5da9397de5d290a6f83748800cc16c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":9895059533,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":9895059533,
+    "wof:lastmodified":1795735068,
+    "wof:name":"Nowata",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    57.96868,
+    38.08318,
+    57.96868,
+    38.08318
+],
+  "geometry": {"coordinates":[57.96868,38.08318],"type":"Point"}
+}

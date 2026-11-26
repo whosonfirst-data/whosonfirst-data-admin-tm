@@ -1,0 +1,72 @@
+{
+  "id": 9895059701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.02545,39.30442,63.02545,39.30442",
+    "geom:latitude":39.30442,
+    "geom:longitude":63.02545,
+    "iso:country":"TM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12233988: name \"G\u00f6\u00fdn\u00fck\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12233988"
+        },
+        {
+            "citation":"GeoNames populated place 12233988: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12233988"
+        },
+        {
+            "citation":"GeoNames populated place 12233988: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12233988"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678937 (Chardzhou), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671,
+        85678937,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12233988
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"d1a5d72288c8c099f2559ee976c559b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":9895059701,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":9895059701,
+    "wof:lastmodified":1795735068,
+    "wof:name":"G\u00f6\u00fdn\u00fck",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.02545,
+    39.30442,
+    63.02545,
+    39.30442
+],
+  "geometry": {"coordinates":[63.02545,39.30442],"type":"Point"}
+}
