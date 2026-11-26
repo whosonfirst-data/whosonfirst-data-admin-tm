@@ -1,0 +1,73 @@
+{
+  "id": 9895059679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.47731,36.84757,62.47731,36.84757",
+    "geom:latitude":36.84757,
+    "geom:longitude":62.47731,
+    "gn:population":2474,
+    "iso:country":"TM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12233963: name \"Garak\u00f6l\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12233963"
+        },
+        {
+            "citation":"GeoNames populated place 12233963: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12233963"
+        },
+        {
+            "citation":"GeoNames populated place 12233963: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12233963"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678941 (Mary), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671,
+        85678941,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12233963
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"d5396a32bb75eb1417d39acacd350a33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":9895059679,
+            "region_id":85678941
+        }
+    ],
+    "wof:id":9895059679,
+    "wof:lastmodified":1795735068,
+    "wof:name":"Garak\u00f6l",
+    "wof:parent_id":85678941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.47731,
+    36.84757,
+    62.47731,
+    36.84757
+],
+  "geometry": {"coordinates":[62.47731,36.84757],"type":"Point"}
+}

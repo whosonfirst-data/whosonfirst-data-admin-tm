@@ -1,0 +1,72 @@
+{
+  "id": 9895059683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.83751,36.56117,62.83751,36.56117",
+    "geom:latitude":36.56117,
+    "geom:longitude":62.83751,
+    "iso:country":"TM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12233967: name \"Ajygu\u00fdy\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12233967"
+        },
+        {
+            "citation":"GeoNames populated place 12233967: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12233967"
+        },
+        {
+            "citation":"GeoNames populated place 12233967: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12233967"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678941 (Mary), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671,
+        85678941,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12233967
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"f06e496b0c973d34983d77c65428f550",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":9895059683,
+            "region_id":85678941
+        }
+    ],
+    "wof:id":9895059683,
+    "wof:lastmodified":1795735068,
+    "wof:name":"Ajygu\u00fdy",
+    "wof:parent_id":85678941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.83751,
+    36.56117,
+    62.83751,
+    36.56117
+],
+  "geometry": {"coordinates":[62.83751,36.56117],"type":"Point"}
+}

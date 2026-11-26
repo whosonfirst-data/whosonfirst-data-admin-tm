@@ -1,0 +1,72 @@
+{
+  "id": 9895059654,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.30459,38.0714,60.30459,38.0714",
+    "geom:latitude":38.0714,
+    "geom:longitude":60.30459,
+    "iso:country":"TM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12233938: name \"Getin\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12233938"
+        },
+        {
+            "citation":"GeoNames populated place 12233938: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12233938"
+        },
+        {
+            "citation":"GeoNames populated place 12233938: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12233938"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678925 (Ahal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671,
+        85678925,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12233938
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"8c2c19ae9302ad7060bc1ef5f0fedbef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":9895059654,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":9895059654,
+    "wof:lastmodified":1795735068,
+    "wof:name":"Getin",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.30459,
+    38.0714,
+    60.30459,
+    38.0714
+],
+  "geometry": {"coordinates":[60.30459,38.0714],"type":"Point"}
+}

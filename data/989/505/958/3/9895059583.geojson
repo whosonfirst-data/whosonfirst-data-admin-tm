@@ -1,0 +1,72 @@
+{
+  "id": 9895059583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"58.11003,39.29335,58.11003,39.29335",
+    "geom:latitude":39.29335,
+    "geom:longitude":58.11003,
+    "iso:country":"TM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12226669: name \"Gatyd\u00fc\u00fdp\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12226669"
+        },
+        {
+            "citation":"GeoNames populated place 12226669: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12226669"
+        },
+        {
+            "citation":"GeoNames populated place 12226669: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12226669"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678925 (Ahal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671,
+        85678925,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12226669
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"3bc21a0f143f9aac8f958d1972d6dab3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":9895059583,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":9895059583,
+    "wof:lastmodified":1795735068,
+    "wof:name":"Gatyd\u00fc\u00fdp",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    58.11003,
+    39.29335,
+    58.11003,
+    39.29335
+],
+  "geometry": {"coordinates":[58.11003,39.29335],"type":"Point"}
+}

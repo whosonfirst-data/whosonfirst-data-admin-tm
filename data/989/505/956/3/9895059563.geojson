@@ -1,0 +1,72 @@
+{
+  "id": 9895059563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.0139,41.90154,59.0139,41.90154",
+    "geom:latitude":41.90154,
+    "geom:longitude":59.0139,
+    "iso:country":"TM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12226646: name \"Toprakgala\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12226646"
+        },
+        {
+            "citation":"GeoNames populated place 12226646: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12226646"
+        },
+        {
+            "citation":"GeoNames populated place 12226646: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12226646"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678931 (Tashauz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671,
+        85678931,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12226646
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"a3724288ddcd9f002e20291a0a0f6aeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":9895059563,
+            "region_id":85678931
+        }
+    ],
+    "wof:id":9895059563,
+    "wof:lastmodified":1795735068,
+    "wof:name":"Toprakgala",
+    "wof:parent_id":85678931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.0139,
+    41.90154,
+    59.0139,
+    41.90154
+],
+  "geometry": {"coordinates":[59.0139,41.90154],"type":"Point"}
+}

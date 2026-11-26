@@ -1,0 +1,72 @@
+{
+  "id": 9895059681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.49266,36.62832,62.49266,36.62832",
+    "geom:latitude":36.62832,
+    "geom:longitude":62.49266,
+    "iso:country":"TM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12233965: name \"\u00dda\u015flyk\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12233965"
+        },
+        {
+            "citation":"GeoNames populated place 12233965: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12233965"
+        },
+        {
+            "citation":"GeoNames populated place 12233965: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12233965"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678941 (Mary), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671,
+        85678941,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12233965
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"2daabdc513ee93563d1b4767003fdbf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":9895059681,
+            "region_id":85678941
+        }
+    ],
+    "wof:id":9895059681,
+    "wof:lastmodified":1795735068,
+    "wof:name":"\u00dda\u015flyk",
+    "wof:parent_id":85678941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.49266,
+    36.62832,
+    62.49266,
+    36.62832
+],
+  "geometry": {"coordinates":[62.49266,36.62832],"type":"Point"}
+}

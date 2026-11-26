@@ -1,0 +1,72 @@
+{
+  "id": 9895059642,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.68542,39.75668,59.68542,39.75668",
+    "geom:latitude":39.75668,
+    "geom:longitude":59.68542,
+    "iso:country":"TM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12233926: name \"B\u00f6wride\u015fik\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12233926"
+        },
+        {
+            "citation":"GeoNames populated place 12233926: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12233926"
+        },
+        {
+            "citation":"GeoNames populated place 12233926: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12233926"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678925 (Ahal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671,
+        85678925,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12233926
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"6f2aacdd227f03d653fd7f094714ce71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":9895059642,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":9895059642,
+    "wof:lastmodified":1795735068,
+    "wof:name":"B\u00f6wride\u015fik",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.68542,
+    39.75668,
+    59.68542,
+    39.75668
+],
+  "geometry": {"coordinates":[59.68542,39.75668],"type":"Point"}
+}

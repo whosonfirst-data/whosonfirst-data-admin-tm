@@ -1,0 +1,72 @@
+{
+  "id": 9895059674,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.00584,37.87707,66.00584,37.87707",
+    "geom:latitude":37.87707,
+    "geom:longitude":66.00584,
+    "iso:country":"TM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12233958: name \"Garrygala\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12233958"
+        },
+        {
+            "citation":"GeoNames populated place 12233958: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12233958"
+        },
+        {
+            "citation":"GeoNames populated place 12233958: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12233958"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678937 (Chardzhou), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671,
+        85678937,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12233958
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"f7f2efdaebd536a4a6e3d07004a54e05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":9895059674,
+            "region_id":85678937
+        }
+    ],
+    "wof:id":9895059674,
+    "wof:lastmodified":1795735068,
+    "wof:name":"Garrygala",
+    "wof:parent_id":85678937,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.00584,
+    37.87707,
+    66.00584,
+    37.87707
+],
+  "geometry": {"coordinates":[66.00584,37.87707],"type":"Point"}
+}

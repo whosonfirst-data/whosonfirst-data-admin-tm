@@ -1,0 +1,72 @@
+{
+  "id": 9895059600,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"55.9379,39.05729,55.9379,39.05729",
+    "geom:latitude":39.05729,
+    "geom:longitude":55.9379,
+    "iso:country":"TM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12226686: name \"Gulma\u00e7\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12226686"
+        },
+        {
+            "citation":"GeoNames populated place 12226686: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12226686"
+        },
+        {
+            "citation":"GeoNames populated place 12226686: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12226686"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678923 (Balkan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671,
+        85678923,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12226686
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"3ac052cf321b6a94d1474f6b03301cbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":9895059600,
+            "region_id":85678923
+        }
+    ],
+    "wof:id":9895059600,
+    "wof:lastmodified":1795735068,
+    "wof:name":"Gulma\u00e7",
+    "wof:parent_id":85678923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.9379,
+    39.05729,
+    55.9379,
+    39.05729
+],
+  "geometry": {"coordinates":[55.9379,39.05729],"type":"Point"}
+}

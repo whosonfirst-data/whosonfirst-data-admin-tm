@@ -1,0 +1,73 @@
+{
+  "id": 9895059742,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.85543,42.01702,59.85543,42.01702",
+    "geom:latitude":42.01702,
+    "geom:longitude":59.85543,
+    "gn:population":7569,
+    "iso:country":"TM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13590046: name \"G\u00f6k\u00e7\u00e4ge\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13590046"
+        },
+        {
+            "citation":"GeoNames populated place 13590046: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13590046"
+        },
+        {
+            "citation":"GeoNames populated place 13590046: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13590046"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678931 (Tashauz), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671,
+        85678931,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13590046
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"53c673a42cd5db5d5a7c85057195a2db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":9895059742,
+            "region_id":85678931
+        }
+    ],
+    "wof:id":9895059742,
+    "wof:lastmodified":1795735068,
+    "wof:name":"G\u00f6k\u00e7\u00e4ge",
+    "wof:parent_id":85678931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.85543,
+    42.01702,
+    59.85543,
+    42.01702
+],
+  "geometry": {"coordinates":[59.85543,42.01702],"type":"Point"}
+}

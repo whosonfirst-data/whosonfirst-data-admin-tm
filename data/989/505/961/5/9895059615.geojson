@@ -1,0 +1,72 @@
+{
+  "id": 9895059615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"59.0661,38.63472,59.0661,38.63472",
+    "geom:latitude":38.63472,
+    "geom:longitude":59.0661,
+    "iso:country":"TM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12226702: name \"Gazykly\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12226702"
+        },
+        {
+            "citation":"GeoNames populated place 12226702: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12226702"
+        },
+        {
+            "citation":"GeoNames populated place 12226702: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12226702"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678925 (Ahal), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671,
+        85678925,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12226702
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"b1fa5f68c5a1aa7c49df1080aff3df7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":9895059615,
+            "region_id":85678925
+        }
+    ],
+    "wof:id":9895059615,
+    "wof:lastmodified":1795735068,
+    "wof:name":"Gazykly",
+    "wof:parent_id":85678925,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    59.0661,
+    38.63472,
+    59.0661,
+    38.63472
+],
+  "geometry": {"coordinates":[59.0661,38.63472],"type":"Point"}
+}

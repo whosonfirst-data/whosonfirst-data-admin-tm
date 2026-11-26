@@ -1,0 +1,73 @@
+{
+  "id": 9895059604,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"54.1544,39.33635,54.1544,39.33635",
+    "geom:latitude":39.33635,
+    "geom:longitude":54.1544,
+    "gn:population":730,
+    "iso:country":"TM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12226690: name \"Uzbo\u00fd\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12226690"
+        },
+        {
+            "citation":"GeoNames populated place 12226690: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12226690"
+        },
+        {
+            "citation":"GeoNames populated place 12226690: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12226690"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85678923 (Balkan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632671,
+        85678923,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12226690
+    },
+    "wof:country":"TM",
+    "wof:geomhash":"729bfc6ab89f046b231c366dcd47e4f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632671,
+            "locality_id":9895059604,
+            "region_id":85678923
+        }
+    ],
+    "wof:id":9895059604,
+    "wof:lastmodified":1795735068,
+    "wof:name":"Uzbo\u00fd",
+    "wof:parent_id":85678923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    54.1544,
+    39.33635,
+    54.1544,
+    39.33635
+],
+  "geometry": {"coordinates":[54.1544,39.33635],"type":"Point"}
+}
